@@ -1,0 +1,4 @@
+[bitbucket_server]
+userid=<userid>
+password=<password>
+base_url=<application_base_url>
